@@ -7,8 +7,9 @@ Before each battle, there is a preparation phase where the player can adjust the
 Determining factors are player foresight, team composition synergy, order of creatures, upgrades and modifiers, decisions taken between battles, and luck.<br>
 
 ## Design Principles:
-Focus on events that affect movement and positioning, giving visceral feedback to user and creature actions. This is the USP<br>
-Modifiers must be meaningful gameplay enhancements/modifications, not just number adjustments.<br>
+1. Focus on events that affect movement and positioning, giving visceral feedback to user and creature actions. This is the USP.<br>
+2. Modifiers must be meaningful gameplay enhancements/modifications, not just number adjustments.<br>
+3. Gameplay must strike a balance between player agency and randomness, offering a rewarding experience for skilled decision-makers but inducing variety such that outcomes are not entirely predictable.<br>
 
 ## Creature ideas:
 Rammer - melee, move forward quickly, pushing all enemies in the way<br>
@@ -20,11 +21,15 @@ Slammer - melee, latches onto the nearest airborne enemy then pulls them down to
 Puller - melee, pulls the nearest enemy from far away into melee range<br>
 Hugger - melee, latches onto the nearest enemy and prevents them from moving or taking any action<br>
 Launcher - ranged, pulls nearest ally then launches them to the nearest enemy, knocking up all enemies at the point of impact<br>
-Blocker - melee, hunkers down and prevents displacement 
+Blocker - melee, hunkers down and becomes immune to displacement effects from enemies<br>
+Rooter - ranged, restrains the nearest enemy, preventing them from moving<br>
+Bomber - ranged, throws a bomb at the second nearest enemy, knocking back all enemies from the point of impact<br>
 
 ## Modifier ideas:
 Ability cooldown reduction<br>
+Attack speed<br>
 Increase area of effect<br>
+Increase displacement effect<br>
 Change target<br>
 Additional target
 
